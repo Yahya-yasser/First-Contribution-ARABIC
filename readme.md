@@ -2310,7 +2310,6 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-<<<<<<< HEAD
     <!--// Yahya Yasser //-->
     <tr>
         <td align="center" width="600">
